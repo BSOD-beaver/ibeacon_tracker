@@ -1,6 +1,6 @@
 {
   "domain": "ibeacon",
-  "name": "iBeacon Tracker",
+  "name": "iBeacon Tracker Modified",
   "bluetooth": [
     {
       "manufacturer_id": 76,
