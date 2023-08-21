@@ -7,7 +7,7 @@ from homeassistant.components.bluetooth import (
 )
 from homeassistant.const import Platform
 
-DOMAIN = "ibeacon_mod"
+DOMAIN = "ibeacon_tracker_mod"
 
 PLATFORMS = [Platform.DEVICE_TRACKER, Platform.SENSOR]
 
